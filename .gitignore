@@ -1,4 +1,5 @@
 htmlcov/
 .idea
 *.iml
+__pycache__
 
